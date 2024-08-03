@@ -3,7 +3,7 @@
 [Link to presentation](presentation.pptx)
 
 
-![image](https://github.com/user-attachments/assets/2a85a59b-ee1b-434b-8c98-fd76bffa851e)
+![image](cc-by-nc.png)
 
 
 
