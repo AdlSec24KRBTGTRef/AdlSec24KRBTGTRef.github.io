@@ -1,6 +1,8 @@
 ## Presentation
 
 [Link to presentation](presentation.pptx)
+![image](cc-by-nc.png)
+
 
 ## References
 
