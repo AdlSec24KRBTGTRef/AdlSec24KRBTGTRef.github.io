@@ -2,11 +2,6 @@
 
 [Link to presentation](presentation.pptx)
 
-
-![image](cc-by-nc.png)
-
-
-
 ## References
 
 - [MS-KILE: Kerberos Network Authentication Service (V5) Synopsis](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-kile/b4af186e-b2ff-43f9-b18e-eedb366abf13) 
