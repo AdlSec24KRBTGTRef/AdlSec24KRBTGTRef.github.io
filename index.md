@@ -1,6 +1,7 @@
 ## Presentation
 
-[Link to presentation](presentation.pptx)
+To be added
+
 ![image](cc-by-nc.png)
 
 
