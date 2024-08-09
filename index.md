@@ -1,8 +1,3 @@
-## Presentation
-
-To be added
-
-![image](cc-by-nc.png)
 
 
 ## References
