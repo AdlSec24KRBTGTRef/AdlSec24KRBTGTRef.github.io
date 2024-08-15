@@ -13,15 +13,15 @@
 
 ## Methodology - Best practices 
 - Practice and reherse pre incident (Australian Government ISM Control: [ISM-1847](https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/ism/cyber-security-guidelines/guidelines-system-hardening) reccomends performing yearly)
-- Know your domain (trusts, RODC's (which require an additional reset for each KRBTGT_123456 account))
-- Ensure your domain is healthy
+- Know your Domain (trusts, RODC's (which require an additional reset for each KRBTGT_123456 account))
+- Ensure your Domain is healthy
    - Time
    - DNS
    - Replication
 - Once reset
    - Domain and Enterprise admins
    - Exchange/SharePoint admins
-   - Service Accounts (Has the process for inputting the new password into the affected application been documented?)
+   - Service Accounts (has the process for inputting the new password into the affected application been documented?)
    - Domain Users
 
 ## References
