@@ -13,7 +13,7 @@
 
 ## Best practices 
 - Practice and reherse pre incident (Australian Government ISM Control: [ISM-1847](https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/ism/cyber-security-guidelines/guidelines-system-hardening) reccomends performing yearly)
-- Know your domain (Trusts, RODC's (Which require an additional reset for each KRBTGT_123456 account))
+- Know your domain (trusts, RODC's (which require an additional reset for each KRBTGT_123456 account))
 - Ensure your domain is healthy
    - Time
    - DNS
