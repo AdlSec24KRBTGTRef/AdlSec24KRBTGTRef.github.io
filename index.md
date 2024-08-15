@@ -6,6 +6,24 @@
 
 - [KRBTGT Password Reset Script](https://github.com/zjorz/Public-AD-Scripts/blob/master/Reset-KrbTgt-Password-For-RWDCs-And-RODCs.ps1)
 
+## Methodology - Choices
+
+- Reset twice in quick succession
+- Reset twice with a pause for the default user and computer ticket lifetime (10 hours)
+
+## Best practices 
+- Practice and reherse pre incident (Australian Government ISM Control: [ISM-1847](https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/ism/cyber-security-guidelines/guidelines-system-hardening) reccomends performing yearly)
+- Know your domain (Trusts, RODC's (Which require an additional reset for each KRBTGT_123456 account)
+- Ensure your domain is healthy
+   - Time
+   - DNS
+   - Replication
+- Once reset
+   - Domain and Enterprise admins
+   - Exchange/SharePoint admins
+   - Service Accounts ( Has this been documented?)
+   - Domain Users
+
 ## References
 
 - [MS-KILE: Kerberos Network Authentication Service (V5) Synopsis](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-kile/b4af186e-b2ff-43f9-b18e-eedb366abf13) 
