@@ -1,6 +1,6 @@
 ## LinkedIn 
 
-- [Sam Freeman] (https://www.linkedin.com/in/sam-f-7092491b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Sam Freeman](https://www.linkedin.com/in/sam-f-7092491b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## References
 
