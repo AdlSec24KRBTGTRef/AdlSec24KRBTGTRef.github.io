@@ -21,7 +21,7 @@
 - Once reset
    - Domain and Enterprise admins
    - Exchange/SharePoint admins
-   - Service Accounts ( Has the process fkr inoutting the new password into the affected application been documented?)
+   - Service Accounts (Has the process for inputting the new password into the affected application been documented?)
    - Domain Users
 
 ## References
